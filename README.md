@@ -1,1 +1,4 @@
-# MIDI_SYNTH that takes in midi file and generate the sound of synthesis. 
+# MIDI_SYNTH 
+contains a midi parser and various synthesis techniques.
+implemented parameter controlled Additive Synth, FM synth, Filter & EQ, Envelope Multiplier, PWM, AM, Convolution-based Delay & Reverb.
+
